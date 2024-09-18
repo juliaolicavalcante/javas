@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bandeira{
+
+
+    width: 100px;
+    height: 200px;
+    background-color: #610dc2;
+}
