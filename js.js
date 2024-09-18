@@ -1,1 +1,1 @@
-let nomeUSuario = Julia, Gabriela
+let nomeUSuario = 'Julia, Gabriela';
